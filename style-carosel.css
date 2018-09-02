@@ -1,0 +1,22 @@
+.test
+{
+    
+    width: 50%;
+    margin: auto;
+   
+}
+
+.test2
+{
+    
+    width: 100px;
+    height: 100px;
+    background-color: darkblue;
+    position: absolute;
+    top: -100px;
+   right: 40%;
+   z-index: 5454545454545;
+    border-radius: 50%;
+    background-image: url(images/two.png);
+    background-size: 100% 100%;
+}
